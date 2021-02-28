@@ -30,7 +30,6 @@ class Solution {
             left--;
             count++;
         }
-
         return count;
     }
 
