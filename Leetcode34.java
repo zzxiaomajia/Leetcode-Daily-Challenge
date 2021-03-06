@@ -23,6 +23,7 @@ class Solution {
         }
         return left;
     }
+
     public int findright(int[] nums, int target){
 
         int right = -1;
