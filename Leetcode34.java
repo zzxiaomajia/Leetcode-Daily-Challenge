@@ -6,6 +6,7 @@ class Solution {
 
         return res;
     }
+
     public int findleft(int[] nums, int target){
 
         int left = -1;
